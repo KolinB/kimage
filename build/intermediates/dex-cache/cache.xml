@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kolin/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.15/9093a362d18c5f81f58e49d86dece57d9b6e1cb7/library-1.0.15.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9093a362d18c5f81f58e49d86dece57d9b6e1cb7">
+        <dex dex="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/pre-dexed/debug/library-1.0.15-bbfc0dd634c127a4212fdb62989e919c91575953.jar" />
+    </item>
+    <item
+        jar="/Users/kolin/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-8433bbd620ef3fb3a4ccb56db277a77baed2eacc.jar" />
+    </item>
+    <item
+        jar="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/pre-dexed/debug/classes-ea8abcf202ad7cbd49fa5d30d1e7cbece353204b.jar" />
+    </item>
+    <item
+        jar="/Users/kolin/.gradle/caches/modules-2/files-2.1/com.jayway.android.robotium/robotium-solo/5.2.1/56ab8d87d966a067ee3795ee137fbd51b6581ec9/robotium-solo-5.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56ab8d87d966a067ee3795ee137fbd51b6581ec9">
+        <dex dex="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/pre-dexed/androidTest/debug/robotium-solo-5.2.1-331de4db2abd7c74e515821e50b765a867efb4f3.jar" />
+    </item>
+    <item
+        jar="/Users/kolin/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-98b932299c16081623919f059e05bfa7d1036f4b.jar" />
+    </item>
+    <item
+        jar="/Users/kolin/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-557979132a49e094b157f239b62aaa18a6a7da78.jar" />
+    </item>
+    <item
+        jar="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/pre-dexed/debug/classes-e4a2c4ca76b5cf3ec4e9ea4bb49a9275cede76ae.jar" />
+    </item>
+    <item
+        jar="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/kolin/Documents/Work/kimage_area/2/3/kimage/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-f8cdc13e92a203b848b5ca46973be31e1330f3b4.jar" />
+    </item>
+
+</items>

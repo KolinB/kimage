@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".MainActivityFragment"
+                android:gravity="center_horizontal">
+
+
+    <RelativeLayout
+        android:id="@+id/top_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+        android:gravity="center_vertical">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/progressbar"
+            android:gravity="center_vertical">
+
+            <LinearLayout
+                android:id="@+id/spinner_layout"
+                android:layout_width="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:id="@+id/text"
+                    android:text="Category:  "
+                    android:layout_height="wrap_content"/>
+
+                <Spinner android:id="@+id/spinner"
+                         android:layout_width="wrap_content"
+                         android:layout_height="wrap_content"
+                    />
+
+
+
+
+            </LinearLayout>
+        </RelativeLayout>
+
+        <ProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:indeterminate="true"
+            android:layout_alignParentRight="true"
+            android:visibility="invisible"
+            />
+    </RelativeLayout>
+
+
+
+    <GridView
+        android:id="@+id/gridview"
+
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:numColumns="1"
+        android:background="#ff000000"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:layout_below="@+id/top_layout"
+        />
+
+</RelativeLayout>
